@@ -1,0 +1,114 @@
+fileFormatVersion: 2
+guid: bc7a7d01fa211364e8983a9ca89e3b01
+timeCreated: 1471539509
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Base_bone
+    100002: bottom_bone
+    100004: Crowd_bot
+    100006: //RootNode
+    100008: Head_bone
+    100010: Left_claw
+    100012: Left_forearm
+    100014: Left_upperarm
+    100016: Neck_bone
+    100018: Right_claw
+    100020: Right_forearm
+    100022: Right_upperarm
+    100024: RoadKillOut
+    100026: RoadKillOut001
+    100028: Torus
+    100030: Waist_bone
+    400000: Base_bone
+    400002: bottom_bone
+    400004: Crowd_bot
+    400006: //RootNode
+    400008: Head_bone
+    400010: Left_claw
+    400012: Left_forearm
+    400014: Left_upperarm
+    400016: Neck_bone
+    400018: Right_claw
+    400020: Right_forearm
+    400022: Right_upperarm
+    400024: RoadKillOut
+    400026: RoadKillOut001
+    400028: Torus
+    400030: Waist_bone
+    2300000: Torus
+    3300000: Torus
+    4300000: Crowd_bot
+    4300002: Torus
+    4300004: RoadKillOut
+    4300006: RoadKillOut001
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Crowd_bot
+    13700002: RoadKillOut
+    13700004: RoadKillOut001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
