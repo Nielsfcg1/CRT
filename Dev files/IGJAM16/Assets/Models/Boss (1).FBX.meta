@@ -1,0 +1,537 @@
+fileFormatVersion: 2
+guid: a5cd9d2e6d0509c46a20d93dfd846bf4
+timeCreated: 1471535165
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: aux10left
+    100002: aux10right
+    100004: aux11left
+    100006: aux11right
+    100008: aux1left
+    100010: aux1right
+    100012: aux2left
+    100014: aux2right
+    100016: aux3left
+    100018: aux3right
+    100020: aux4left
+    100022: aux4right
+    100024: aux5left
+    100026: aux5right
+    100028: aux6left
+    100030: aux6right
+    100032: aux7left
+    100034: aux7right
+    100036: aux8left
+    100038: aux8right
+    100040: aux9left
+    100042: aux9right
+    100044: Bone002left
+    100046: Bone003left
+    100048: Bone004left
+    100050: Bone005left
+    100052: Bone006left
+    100054: Bone007left
+    100056: Bone008left
+    100058: Bone009left
+    100060: bone1left
+    100062: bone1right
+    100064: bone2right
+    100066: bone3right
+    100068: bone4right
+    100070: bone5right
+    100072: bone6right
+    100074: bone7right
+    100076: bone8right
+    100078: //RootNode
+    100080: Boss Head
+    100082: Death Pile
+    100084: Eyes
+    100086: eyes bone
+    100088: hands
+    100090: Hands bone
+    100092: Head bone
+    100094: IK Chain left aux
+    100096: IK Chain left usb
+    100098: IK Chain right aux
+    100100: IK Chain right usb
+    100102: left aux
+    100104: Line003
+    100106: Line004
+    100108: Plane001
+    100110: right aux
+    100112: Sphere001
+    100114: usb halo 1
+    100116: usb halo 2
+    100118: Usb left down
+    100120: usb right down
+    100122: Wind001
+    100124: Wind002
+    400000: aux10left
+    400002: aux10right
+    400004: aux11left
+    400006: aux11right
+    400008: aux1left
+    400010: aux1right
+    400012: aux2left
+    400014: aux2right
+    400016: aux3left
+    400018: aux3right
+    400020: aux4left
+    400022: aux4right
+    400024: aux5left
+    400026: aux5right
+    400028: aux6left
+    400030: aux6right
+    400032: aux7left
+    400034: aux7right
+    400036: aux8left
+    400038: aux8right
+    400040: aux9left
+    400042: aux9right
+    400044: Bone002left
+    400046: Bone003left
+    400048: Bone004left
+    400050: Bone005left
+    400052: Bone006left
+    400054: Bone007left
+    400056: Bone008left
+    400058: Bone009left
+    400060: bone1left
+    400062: bone1right
+    400064: bone2right
+    400066: bone3right
+    400068: bone4right
+    400070: bone5right
+    400072: bone6right
+    400074: bone7right
+    400076: bone8right
+    400078: //RootNode
+    400080: Boss Head
+    400082: Death Pile
+    400084: Eyes
+    400086: eyes bone
+    400088: hands
+    400090: Hands bone
+    400092: Head bone
+    400094: IK Chain left aux
+    400096: IK Chain left usb
+    400098: IK Chain right aux
+    400100: IK Chain right usb
+    400102: left aux
+    400104: Line003
+    400106: Line004
+    400108: Plane001
+    400110: right aux
+    400112: Sphere001
+    400114: usb halo 1
+    400116: usb halo 2
+    400118: Usb left down
+    400120: usb right down
+    400122: Wind001
+    400124: Wind002
+    2300000: Death Pile
+    2300002: Plane001
+    2300004: Sphere001
+    2300006: usb halo 1
+    2300008: usb halo 2
+    3300000: Death Pile
+    3300002: Plane001
+    3300004: Sphere001
+    3300006: usb halo 1
+    3300008: usb halo 2
+    4300000: Boss Head
+    4300002: Eyes
+    4300004: Plane001
+    4300006: Death Pile
+    4300008: usb halo 1
+    4300010: usb halo 2
+    4300012: Usb left down
+    4300014: usb right down
+    4300016: left aux
+    4300018: right aux
+    4300020: hands
+    4300022: Sphere001
+    7400000: Idle
+    7400002: Attack
+    9500000: //RootNode
+    13700000: Boss Head
+    13700002: Eyes
+    13700004: hands
+    13700006: left aux
+    13700008: right aux
+    13700010: Usb left down
+    13700012: usb right down
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 74
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: aux1left
+        weight: 1
+      - path: aux1left/aux2left
+        weight: 1
+      - path: aux1left/aux2left/aux3left
+        weight: 1
+      - path: aux1left/aux2left/aux3left/aux4left
+        weight: 1
+      - path: aux1left/aux2left/aux3left/aux4left/aux5left
+        weight: 1
+      - path: aux1left/aux2left/aux3left/aux4left/aux5left/aux6left
+        weight: 1
+      - path: aux1left/aux2left/aux3left/aux4left/aux5left/aux6left/aux7left
+        weight: 1
+      - path: aux1left/aux2left/aux3left/aux4left/aux5left/aux6left/aux7left/aux8left
+        weight: 1
+      - path: aux1left/aux2left/aux3left/aux4left/aux5left/aux6left/aux7left/aux8left/aux9left
+        weight: 1
+      - path: aux1left/aux2left/aux3left/aux4left/aux5left/aux6left/aux7left/aux8left/aux9left/aux10left
+        weight: 1
+      - path: aux1left/aux2left/aux3left/aux4left/aux5left/aux6left/aux7left/aux8left/aux9left/aux10left/aux11left
+        weight: 1
+      - path: aux1right
+        weight: 1
+      - path: aux1right/aux2right
+        weight: 1
+      - path: aux1right/aux2right/aux3right
+        weight: 1
+      - path: aux1right/aux2right/aux3right/aux4right
+        weight: 1
+      - path: aux1right/aux2right/aux3right/aux4right/aux5right
+        weight: 1
+      - path: aux1right/aux2right/aux3right/aux4right/aux5right/aux6right
+        weight: 1
+      - path: aux1right/aux2right/aux3right/aux4right/aux5right/aux6right/aux7right
+        weight: 1
+      - path: aux1right/aux2right/aux3right/aux4right/aux5right/aux6right/aux7right/aux8right
+        weight: 1
+      - path: aux1right/aux2right/aux3right/aux4right/aux5right/aux6right/aux7right/aux8right/aux9right
+        weight: 1
+      - path: aux1right/aux2right/aux3right/aux4right/aux5right/aux6right/aux7right/aux8right/aux9right/aux10right
+        weight: 1
+      - path: aux1right/aux2right/aux3right/aux4right/aux5right/aux6right/aux7right/aux8right/aux9right/aux10right/aux11right
+        weight: 1
+      - path: bone1left
+        weight: 1
+      - path: bone1left/Bone002left
+        weight: 1
+      - path: bone1left/Bone002left/Bone003left
+        weight: 1
+      - path: bone1left/Bone002left/Bone003left/Bone004left
+        weight: 1
+      - path: bone1left/Bone002left/Bone003left/Bone004left/Bone005left
+        weight: 1
+      - path: bone1left/Bone002left/Bone003left/Bone004left/Bone005left/Bone006left
+        weight: 1
+      - path: bone1left/Bone002left/Bone003left/Bone004left/Bone005left/Bone006left/Bone007left
+        weight: 1
+      - path: bone1left/Bone002left/Bone003left/Bone004left/Bone005left/Bone006left/Bone007left/Bone008left
+        weight: 1
+      - path: bone1left/Bone002left/Bone003left/Bone004left/Bone005left/Bone006left/Bone007left/Bone008left/Bone009left
+        weight: 1
+      - path: bone1right
+        weight: 1
+      - path: bone1right/bone2right
+        weight: 1
+      - path: bone1right/bone2right/bone3right
+        weight: 1
+      - path: bone1right/bone2right/bone3right/bone4right
+        weight: 1
+      - path: bone1right/bone2right/bone3right/bone4right/bone5right
+        weight: 1
+      - path: bone1right/bone2right/bone3right/bone4right/bone5right/bone6right
+        weight: 1
+      - path: bone1right/bone2right/bone3right/bone4right/bone5right/bone6right/bone7right
+        weight: 1
+      - path: bone1right/bone2right/bone3right/bone4right/bone5right/bone6right/bone7right/bone8right
+        weight: 1
+      - path: Boss Head
+        weight: 1
+      - path: Death Pile
+        weight: 1
+      - path: Eyes
+        weight: 1
+      - path: eyes bone
+        weight: 1
+      - path: hands
+        weight: 1
+      - path: Hands bone
+        weight: 1
+      - path: Head bone
+        weight: 1
+      - path: IK Chain left aux
+        weight: 1
+      - path: IK Chain left usb
+        weight: 1
+      - path: IK Chain right aux
+        weight: 1
+      - path: IK Chain right usb
+        weight: 1
+      - path: left aux
+        weight: 1
+      - path: Line003
+        weight: 1
+      - path: Line004
+        weight: 1
+      - path: Plane001
+        weight: 1
+      - path: right aux
+        weight: 1
+      - path: Sphere001
+        weight: 1
+      - path: usb halo 1
+        weight: 1
+      - path: usb halo 2
+        weight: 1
+      - path: Usb left down
+        weight: 1
+      - path: usb right down
+        weight: 1
+      - path: Wind001
+        weight: 1
+      - path: Wind002
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack
+      takeName: Take 001
+      firstFrame: 100
+      lastFrame: 199
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: aux1left
+        weight: 1
+      - path: aux1left/aux2left
+        weight: 1
+      - path: aux1left/aux2left/aux3left
+        weight: 1
+      - path: aux1left/aux2left/aux3left/aux4left
+        weight: 1
+      - path: aux1left/aux2left/aux3left/aux4left/aux5left
+        weight: 1
+      - path: aux1left/aux2left/aux3left/aux4left/aux5left/aux6left
+        weight: 1
+      - path: aux1left/aux2left/aux3left/aux4left/aux5left/aux6left/aux7left
+        weight: 1
+      - path: aux1left/aux2left/aux3left/aux4left/aux5left/aux6left/aux7left/aux8left
+        weight: 1
+      - path: aux1left/aux2left/aux3left/aux4left/aux5left/aux6left/aux7left/aux8left/aux9left
+        weight: 1
+      - path: aux1left/aux2left/aux3left/aux4left/aux5left/aux6left/aux7left/aux8left/aux9left/aux10left
+        weight: 1
+      - path: aux1left/aux2left/aux3left/aux4left/aux5left/aux6left/aux7left/aux8left/aux9left/aux10left/aux11left
+        weight: 1
+      - path: aux1right
+        weight: 1
+      - path: aux1right/aux2right
+        weight: 1
+      - path: aux1right/aux2right/aux3right
+        weight: 1
+      - path: aux1right/aux2right/aux3right/aux4right
+        weight: 1
+      - path: aux1right/aux2right/aux3right/aux4right/aux5right
+        weight: 1
+      - path: aux1right/aux2right/aux3right/aux4right/aux5right/aux6right
+        weight: 1
+      - path: aux1right/aux2right/aux3right/aux4right/aux5right/aux6right/aux7right
+        weight: 1
+      - path: aux1right/aux2right/aux3right/aux4right/aux5right/aux6right/aux7right/aux8right
+        weight: 1
+      - path: aux1right/aux2right/aux3right/aux4right/aux5right/aux6right/aux7right/aux8right/aux9right
+        weight: 1
+      - path: aux1right/aux2right/aux3right/aux4right/aux5right/aux6right/aux7right/aux8right/aux9right/aux10right
+        weight: 1
+      - path: aux1right/aux2right/aux3right/aux4right/aux5right/aux6right/aux7right/aux8right/aux9right/aux10right/aux11right
+        weight: 1
+      - path: bone1left
+        weight: 1
+      - path: bone1left/Bone002left
+        weight: 1
+      - path: bone1left/Bone002left/Bone003left
+        weight: 1
+      - path: bone1left/Bone002left/Bone003left/Bone004left
+        weight: 1
+      - path: bone1left/Bone002left/Bone003left/Bone004left/Bone005left
+        weight: 1
+      - path: bone1left/Bone002left/Bone003left/Bone004left/Bone005left/Bone006left
+        weight: 1
+      - path: bone1left/Bone002left/Bone003left/Bone004left/Bone005left/Bone006left/Bone007left
+        weight: 1
+      - path: bone1left/Bone002left/Bone003left/Bone004left/Bone005left/Bone006left/Bone007left/Bone008left
+        weight: 1
+      - path: bone1left/Bone002left/Bone003left/Bone004left/Bone005left/Bone006left/Bone007left/Bone008left/Bone009left
+        weight: 1
+      - path: bone1right
+        weight: 1
+      - path: bone1right/bone2right
+        weight: 1
+      - path: bone1right/bone2right/bone3right
+        weight: 1
+      - path: bone1right/bone2right/bone3right/bone4right
+        weight: 1
+      - path: bone1right/bone2right/bone3right/bone4right/bone5right
+        weight: 1
+      - path: bone1right/bone2right/bone3right/bone4right/bone5right/bone6right
+        weight: 1
+      - path: bone1right/bone2right/bone3right/bone4right/bone5right/bone6right/bone7right
+        weight: 1
+      - path: bone1right/bone2right/bone3right/bone4right/bone5right/bone6right/bone7right/bone8right
+        weight: 1
+      - path: Boss Head
+        weight: 1
+      - path: Death Pile
+        weight: 1
+      - path: Eyes
+        weight: 1
+      - path: eyes bone
+        weight: 1
+      - path: hands
+        weight: 1
+      - path: Hands bone
+        weight: 1
+      - path: Head bone
+        weight: 1
+      - path: IK Chain left aux
+        weight: 1
+      - path: IK Chain left usb
+        weight: 1
+      - path: IK Chain right aux
+        weight: 1
+      - path: IK Chain right usb
+        weight: 1
+      - path: left aux
+        weight: 1
+      - path: Line003
+        weight: 1
+      - path: Line004
+        weight: 1
+      - path: Plane001
+        weight: 1
+      - path: right aux
+        weight: 1
+      - path: Sphere001
+        weight: 1
+      - path: usb halo 1
+        weight: 1
+      - path: usb halo 2
+        weight: 1
+      - path: Usb left down
+        weight: 1
+      - path: usb right down
+        weight: 1
+      - path: Wind001
+        weight: 1
+      - path: Wind002
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

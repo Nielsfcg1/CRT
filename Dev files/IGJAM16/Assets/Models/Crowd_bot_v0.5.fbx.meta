@@ -1,0 +1,276 @@
+fileFormatVersion: 2
+guid: 915f4c7138d686848917c7afda4f5989
+timeCreated: 1471555283
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Base_bone
+    100002: bottom_bone
+    100004: //RootNode
+    100006: Crowdbot
+    100008: Head_bone
+    100010: Left_claw
+    100012: Left_forearm
+    100014: Left_upperarm
+    100016: Neck_bone
+    100018: Right_claw
+    100020: Right_forearm
+    100022: Right_upperarm
+    100024: Torus
+    100026: Waist_bone
+    400000: Base_bone
+    400002: bottom_bone
+    400004: //RootNode
+    400006: Crowdbot
+    400008: Head_bone
+    400010: Left_claw
+    400012: Left_forearm
+    400014: Left_upperarm
+    400016: Neck_bone
+    400018: Right_claw
+    400020: Right_forearm
+    400022: Right_upperarm
+    400024: Torus
+    400026: Waist_bone
+    2300000: Torus
+    3300000: Torus
+    4300000: Torus
+    4300002: Crowdbot
+    7400000: Idle
+    7400002: Shake
+    7400004: Chant
+    9500000: //RootNode
+    13700000: Crowdbot
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Base_bone
+        weight: 1
+      - path: Base_bone/bottom_bone
+        weight: 1
+      - path: Base_bone/bottom_bone/Waist_bone
+        weight: 1
+      - path: Base_bone/bottom_bone/Waist_bone/Left_upperarm
+        weight: 1
+      - path: Base_bone/bottom_bone/Waist_bone/Left_upperarm/Left_forearm
+        weight: 1
+      - path: Base_bone/bottom_bone/Waist_bone/Left_upperarm/Left_forearm/Left_claw
+        weight: 1
+      - path: Base_bone/bottom_bone/Waist_bone/Neck_bone
+        weight: 1
+      - path: Base_bone/bottom_bone/Waist_bone/Neck_bone/Head_bone
+        weight: 1
+      - path: Base_bone/bottom_bone/Waist_bone/Right_upperarm
+        weight: 1
+      - path: Base_bone/bottom_bone/Waist_bone/Right_upperarm/Right_forearm
+        weight: 1
+      - path: Base_bone/bottom_bone/Waist_bone/Right_upperarm/Right_forearm/Right_claw
+        weight: 1
+      - path: Crowdbot
+        weight: 1
+      - path: Torus
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Shake
+      takeName: Take 001
+      firstFrame: 80
+      lastFrame: 110
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Base_bone
+        weight: 1
+      - path: Base_bone/bottom_bone
+        weight: 1
+      - path: Base_bone/bottom_bone/Waist_bone
+        weight: 1
+      - path: Base_bone/bottom_bone/Waist_bone/Left_upperarm
+        weight: 1
+      - path: Base_bone/bottom_bone/Waist_bone/Left_upperarm/Left_forearm
+        weight: 1
+      - path: Base_bone/bottom_bone/Waist_bone/Left_upperarm/Left_forearm/Left_claw
+        weight: 1
+      - path: Base_bone/bottom_bone/Waist_bone/Neck_bone
+        weight: 1
+      - path: Base_bone/bottom_bone/Waist_bone/Neck_bone/Head_bone
+        weight: 1
+      - path: Base_bone/bottom_bone/Waist_bone/Right_upperarm
+        weight: 1
+      - path: Base_bone/bottom_bone/Waist_bone/Right_upperarm/Right_forearm
+        weight: 1
+      - path: Base_bone/bottom_bone/Waist_bone/Right_upperarm/Right_forearm/Right_claw
+        weight: 1
+      - path: Crowdbot
+        weight: 1
+      - path: Torus
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Chant
+      takeName: Take 001
+      firstFrame: 120
+      lastFrame: 170
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Base_bone
+        weight: 1
+      - path: Base_bone/bottom_bone
+        weight: 1
+      - path: Base_bone/bottom_bone/Waist_bone
+        weight: 1
+      - path: Base_bone/bottom_bone/Waist_bone/Left_upperarm
+        weight: 1
+      - path: Base_bone/bottom_bone/Waist_bone/Left_upperarm/Left_forearm
+        weight: 1
+      - path: Base_bone/bottom_bone/Waist_bone/Left_upperarm/Left_forearm/Left_claw
+        weight: 1
+      - path: Base_bone/bottom_bone/Waist_bone/Neck_bone
+        weight: 1
+      - path: Base_bone/bottom_bone/Waist_bone/Neck_bone/Head_bone
+        weight: 1
+      - path: Base_bone/bottom_bone/Waist_bone/Right_upperarm
+        weight: 1
+      - path: Base_bone/bottom_bone/Waist_bone/Right_upperarm/Right_forearm
+        weight: 1
+      - path: Base_bone/bottom_bone/Waist_bone/Right_upperarm/Right_forearm/Right_claw
+        weight: 1
+      - path: Crowdbot
+        weight: 1
+      - path: Torus
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

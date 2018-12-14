@@ -1,0 +1,18 @@
+
+[paths]
+default = http://84.200.52.103/IGJAM16
+
+[ui]
+Username = NIELS TROMP <nielsfcg1@live.nl>
+
+[merge-patterns]
+**.unity = unityyamlmerge
+**.prefab = unityyamlmerge
+
+[merge-tools]
+unityyamlmerge.executable = D:/Unity/Editor/Data/Tools/UnityYAMLMerge.exe
+unityyamlmerge.args = merge -p --force $base $other $local $output
+
+unityyamlmerge.checkprompt = True
+unityyamlmerge.premerge = False
+unityyamlmerge.binary = False

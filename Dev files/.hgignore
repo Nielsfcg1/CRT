@@ -1,0 +1,13 @@
+syntax: glob
+IGJAM16/Library/*
+.DS_Store
+*.sln
+*.userprefs
+*.csproj
+*.pidb
+*.unitypackage
+*.orig
+*.orig.meta
+*.ini
+*.ini.meta
+*.unityproj
